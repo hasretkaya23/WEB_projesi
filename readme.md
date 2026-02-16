@@ -1,0 +1,1 @@
+#öğrenci yaşam rehberi
