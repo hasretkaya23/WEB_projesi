@@ -1,4 +1,5 @@
 # WEB_projesi
+# Öğrenciler İçin Görev Yönetimi ve Motivasyon Platformu
 ## proje açıklaması
 Bu proje, öğrencilerin akademik hayatlarını daha planlı, verimli ve motive bir şekilde sürdürebilmeleri amacıyla geliştirilmiş etkileşimli bir web uygulamasıdır. görev yönetimi, hedef belirleme ve motivasyon desteği sunarak öğrencilerin zaman yönetimini geliştirmelerine yardımcı olur.
 ## hedef kullanıcılar 
